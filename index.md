@@ -1,17 +1,14 @@
-# Welcome to My Portfolio
-
+# Welcome to My Data AnalyticsPortfolio
 ---
-
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [External Link Project](https://www.linkedin.com/pulse/r-hr-understanding-how-statistics-can-used-analytics-shuja-masood-qj4nc/)
+[<img src="images/HR_Cover_Image.png?raw=true"/>](https://www.linkedin.com/pulse/r-hr-understanding-how-statistics-can-used-analytics-shuja-masood-qj4nc/)
+Using an IBM-created HR dataset in RStudio, I explored:
 
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+🔎 Which employee attributes influence turnover
+📊 How statistical models reveal hidden patterns
+✅ Actionable insights to help HR retain younger talent
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
@@ -29,13 +26,16 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+--### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+--<img src="images/21 Days To Data Challenge.png?raw=true"/>
+--=For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business ------value, and much more. 
+---[Project 1 Title](http://example.com/)
+---[Project 2 Title](http://example.com/)
+---[Project 3 Title](http://example.com/)
+---[Project 4 Title](http://example.com/)
+---[Project 5 Title](http://example.com/)
 
 ---
 
