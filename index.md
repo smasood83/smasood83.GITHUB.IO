@@ -2,6 +2,12 @@
 ---
 ### Learn About My Projects
 
+#### [External Link Project](https://www.linkedin.com/pulse/disaster-trends-insights-data-driven-look-fema-shuja-masood-mnsrc/?trackingId=SD5WPdyC%2BuF8gW2JnA%2BZFA%3D%3D)
+[<img src="images/Black and red Realistic Wildfire Natural Disaster Landscape Classroom Poster.png?raw=true"/>](https://www.linkedin.com/pulse/disaster-trends-insights-data-driven-look-fema-shuja-masood-mnsrc/?trackingId=SD5WPdyC%2BuF8gW2JnA%2BZFA%3D%3D)
+
+Since 1953, FEMA has tracked disasters across the U.S. I used Python and Tableau to uncover patterns in timing, location, and duration—and what they reveal about smarter community preparedness.
+
+---
 #### [External Link Project](https://www.linkedin.com/pulse/r-hr-understanding-how-statistics-can-used-analytics-shuja-masood-qj4nc/)
 [<img src="images/HR_Cover_Image.png?raw=true"/>](https://www.linkedin.com/pulse/r-hr-understanding-how-statistics-can-used-analytics-shuja-masood-qj4nc/)
 
